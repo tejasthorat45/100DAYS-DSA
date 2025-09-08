@@ -7,6 +7,7 @@ public class Day7_Q11 {
     }
 
     public static void main(String[] args) {
+        hi();
         System.out.println("hello git");
     }
 
