@@ -35,8 +35,8 @@ I started this journey on **1st September 2025** with a simple rule:
 | 2   | 2 Sep 2025 | Valid Parentheses (#20) | Merge Two Sorted Lists (#21) | LeetCode | ✅ |
 | 3   | 3 Sep 2025 | - | - | - | 🔄 |
 | 4   | 4 Sep 2025 | - | - | - | ⏳ |
-| 5   | 5 Sep 2025 | - | - | - | ⏳ |
-| 6   | 6 Sep 2025 | Product of array except itself | Next Greater Element | LeetCode | ✅ |
+| 5   | 5 Sep 2025 | Majority Element | SINGLE ELEMENT IN SORTED ARRAY | LeetCode | ✅ |
+| 6   | 6 Sep 2025 | Product of array except itself | Pivot Index | LeetCode | ✅ |
 | -   | 7 Sep 2025 | **Sunday (Break)** | - | - | 💤 |
 | 7   | 8 Sep 2025 | - | - | - | ⏳ |
 | ... | ...        | ... | ... | ... | ... |
