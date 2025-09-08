@@ -24,21 +24,23 @@ I started this journey on **1st September 2025** with a simple rule:
 
 ---
 
-## 📊 Progress Tracker  
+## 📊 Progress Tracker
 
-| Day | Date       | Problem | Platform | Status |
-|-----|------------|---------|----------|--------|
-| 1   | 1 Sep 2025 | Two Sum (#1) | LeetCode | ✅ |
-| 2   | 2 Sep 2025 | Valid Parentheses (#20) | LeetCode | ✅ |
-| 3   | 3 Sep 2025 | - | - | 🔄 |
-| 4   | 4 Sep 2025 | - | - | ⏳ |
-| 5   | 5 Sep 2025 | - | - | ⏳ |
-| 6   | 6 Sep 2025 | Product of array except itself | LeetCode | ✅ |
-| -   | 7 Sep 2025 | **Sunday (Break)** | - | 💤 |
-| 7   | 8 Sep 2025 | - | - | ⏳ |
-| 8   | 9 Sep 2025 | - | - | ⏳ |
-| 9   | 10 Sep 2025| - | - | ⏳ |
-| ... | ...        | ... | ... | ... |
+**Progress:** 4/100 Questions Completed  
+[████░░░░░░░░░░░░░░░░░░░░░░░░░░] 4%
+
+| Day | Date       | Problem 1 | Problem 2 | Platform | Status |
+|-----|------------|-----------|-----------|----------|--------|
+| 1   | 1 Sep 2025 | Two Sum (#1) | Reverse Linked List (#2) | LeetCode | ✅ |
+| 2   | 2 Sep 2025 | Valid Parentheses (#20) | Merge Two Sorted Lists (#21) | LeetCode | ✅ |
+| 3   | 3 Sep 2025 | - | - | - | 🔄 |
+| 4   | 4 Sep 2025 | - | - | - | ⏳ |
+| 5   | 5 Sep 2025 | - | - | - | ⏳ |
+| 6   | 6 Sep 2025 | Product of array except itself | Next Greater Element | LeetCode | ✅ |
+| -   | 7 Sep 2025 | **Sunday (Break)** | - | - | 💤 |
+| 7   | 8 Sep 2025 | - | - | - | ⏳ |
+| ... | ...        | ... | ... | ... | ... |
+
 
 > 📌 Sundays are **rest days** 💤 and are not counted in the 100 days.  
 
