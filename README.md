@@ -33,7 +33,7 @@ I started this journey on **1st September 2025** with a simple rule:
 | 3   | 3 Sep 2025 | - | - | 🔄 |
 | 4   | 4 Sep 2025 | - | - | ⏳ |
 | 5   | 5 Sep 2025 | - | - | ⏳ |
-| 6   | 6 Sep 2025 | - | - | ⏳ |
+| 6   | 6 Sep 2025 | Product of array except itself | LeetCode | ✅ |
 | -   | 7 Sep 2025 | **Sunday (Break)** | - | 💤 |
 | 7   | 8 Sep 2025 | - | - | ⏳ |
 | 8   | 9 Sep 2025 | - | - | ⏳ |
