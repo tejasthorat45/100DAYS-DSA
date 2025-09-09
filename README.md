@@ -38,8 +38,8 @@ I started this journey on **1st September 2025** with a simple rule:
 | 5   | 5 Sep 2025 | Majority Element | SINGLE ELEMENT IN SORTED ARRAY | LeetCode | ✅ |
 | 6   | 6 Sep 2025 | Product of array except itself | Pivot Index | LeetCode | ✅ |
 | -   | 7 Sep 2025 | **Sunday (Break)** | - | - | 💤 |
-| 7   | 8 Sep 2025 | - | - | - | ⏳ |
-| ... | ...        | ... | ... | ... | ... |
+| 7   | 8 Sep 2025 | Duplicate Number in Array | Container With Most Water |  | ✅ |
+| 8 | 9 sep 2025   | 2 Sum | 3 sum | LEETCODE | ✅ |
 
 
 > 📌 Sundays are **rest days** 💤 and are not counted in the 100 days.  
