@@ -30,7 +30,7 @@ public class DAY9_Q128 {
 
         return Math.max(longest,streak);
     }
-
+   // optimal Solution O(n);
     public  static int optimalSolution(int nums[]){
 
         Set<Integer> set = new HashSet<>();
