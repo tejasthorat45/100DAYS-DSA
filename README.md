@@ -40,8 +40,8 @@ I started this journey on **1st September 2025** with a simple rule:
 | -   | 7 Sep 2025 | **Sunday (Break)** | - | - | 💤 |
 | 7   | 8 Sep 2025 | Duplicate Number in Array | Container With Most Water |  | ✅ |
 | 8   | 9 sep 2025 | 2 Sum | 3 sum | LEETCODE | ✅ |
-| 9   | 10 Sep 2025|  Longest Consecutive sequence|  | Online Staock Span problem | ✅ |
-|    |    |  |  |  |  |
+| 9   | 10 Sep 2025|  Longest Consecutive sequence| Online Staock Span problem | LeetCode | ✅ |
+| 10   | 11 Sep 2025   | Max sum of subarray eq k | max product from subarray | LeetCode And GFG | ✅ |
 |    |    |  |  |  |  |
 |    |    |  |  |  |  |
 |    |    |  |  |  |  |
