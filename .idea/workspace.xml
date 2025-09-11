@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="933b3a4e-5909-47eb-b158-a8fede7dcba7" name="Changes" comment="git push origin main">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode100Days/Day9_Q901.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode100Days/Day10_Q152.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode100Days/Day10_Q560.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +54,8 @@
     "Application.DAY7_Q287.executor": "Run",
     "Application.DAY8_Q1.executor": "Run",
     "Application.DAY9_Q128.executor": "Run",
+    "Application.Day10_Q152.executor": "Run",
+    "Application.Day10_Q560.executor": "Run",
     "Application.Day7_Q11.executor": "Run",
     "Application.Day8_Q15.executor": "Run",
     "Application.Day9_Q901.executor": "Run",
@@ -68,20 +71,7 @@
       <recent name="C:\100DAYSDSA\100DSA\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Day9_Q901">
-    <configuration name="DAY8_Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode100Days.DAY8_Q1" />
-      <module name="100DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode100Days.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Day10_Q152">
     <configuration name="DAY9_Q128" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode100Days.DAY9_Q128" />
       <module name="100DSA" />
@@ -95,8 +85,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day7_Q11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode100Days.Day7_Q11" />
+    <configuration name="Day10_Q152" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode100Days.Day10_Q152" />
+      <module name="100DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode100Days.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day10_Q560" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode100Days.Day10_Q560" />
       <module name="100DSA" />
       <extension name="coverage">
         <pattern>
@@ -136,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day10_Q152" />
+        <item itemvalue="Application.Day10_Q560" />
         <item itemvalue="Application.Day9_Q901" />
         <item itemvalue="Application.DAY9_Q128" />
         <item itemvalue="Application.Day8_Q15" />
-        <item itemvalue="Application.DAY8_Q1" />
-        <item itemvalue="Application.Day7_Q11" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +236,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757484018539</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="git push origin main">
+      <option name="closed" value="true" />
+      <created>1757514469523</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1757514469523</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
