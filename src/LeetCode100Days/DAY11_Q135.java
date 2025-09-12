@@ -1,6 +1,49 @@
 package LeetCode100Days;
 
-class DAY1_Q135 {
+class DAY11_Q135 {
+
+    public static int optimal(int ratings[]){
+        //
+        int n = ratings.length;
+
+        int i=1;
+        int candy = n;
+
+        while(i<n){
+
+            if(ratings[i]==ratings[i-1]){
+                i++;
+                continue;
+            }
+
+            //increses slope
+            int peak =0;
+            while(ratings[i]>ratings[i-1]){
+
+                peak++;
+                candy+=peak;
+                i++;
+                if(i==n){
+                    return candy;
+                }
+
+
+            }
+            //dcreseing slope
+            int dip =0;
+            while (i<n && ratings[i]<ratings[i-1]){
+                dip++;
+                candy+=dip;
+                i++;
+
+            }
+            // if hit top and return to down
+            candy-= Math.min(peak,dip);
+
+        }
+        return candy;
+
+    }
     public int candy(int[] ratings) {
         int n = ratings.length;
         int[] count = new int[n];
@@ -35,7 +78,7 @@ class DAY1_Q135 {
 
     // Main function to test
     public static void main(String[] args) {
-        DAY1_Q135 sol = new DAY1_Q135();
+        DAY11_Q135 sol = new DAY11_Q135();
 
         int[] ratings1 = {1, 0, 2};
         System.out.println(sol.candy(ratings1));  // Expected output: 5
@@ -45,5 +88,9 @@ class DAY1_Q135 {
 
         int[] ratings3 = {1, 3, 4, 5, 2};
         System.out.println(sol.candy(ratings3));  // Expected output: 11
+
+        int[] ratings4 = {1, 3, 4, 5, 2};
+        System.out.println(optimal(ratings4));
+
     }
 }
