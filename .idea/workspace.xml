@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="933b3a4e-5909-47eb-b158-a8fede7dcba7" name="Changes" comment="git push origin main">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode100Days/DAY11_Q135.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode100Days/DAY11_Q135.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode100Days/Trappedrainwater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode100Days/DAY11_Q42.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,30 +48,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.DAY7_Q287.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DAY8_Q1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DAY9_Q128.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Day10_Q152.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Day10_Q560.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Day11_Q134.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Day7_Q11.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Day8_Q15.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Day9_Q901.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/PORTFOLIO&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/100DAYSDSA/100DSA/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DAY11_Q135.executor": "Run",
+    "Application.DAY7_Q287.executor": "Run",
+    "Application.DAY8_Q1.executor": "Run",
+    "Application.DAY9_Q128.executor": "Run",
+    "Application.Day10_Q152.executor": "Run",
+    "Application.Day10_Q560.executor": "Run",
+    "Application.Day11_Q134.executor": "Run",
+    "Application.Day7_Q11.executor": "Run",
+    "Application.Day8_Q15.executor": "Run",
+    "Application.Day9_Q901.executor": "Run",
+    "Application.Trappedrainwater.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/PORTFOLIO",
+    "onboarding.tips.debug.path": "C:/100DAYSDSA/100DSA/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\100DAYSDSA\100DSA\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DAY11_Q135">
+  <component name="RunManager" selected="Application.Trappedrainwater">
     <configuration name="DAY11_Q135" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode100Days.DAY11_Q135" />
       <module name="100DSA" />
@@ -124,8 +126,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day9_Q901" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode100Days.Day9_Q901" />
+    <configuration name="Trappedrainwater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode100Days.Trappedrainwater" />
       <module name="100DSA" />
       <extension name="coverage">
         <pattern>
@@ -139,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Trappedrainwater" />
         <item itemvalue="Application.DAY11_Q135" />
         <item itemvalue="Application.Day11_Q134" />
         <item itemvalue="Application.Day10_Q152" />
         <item itemvalue="Application.Day10_Q560" />
-        <item itemvalue="Application.Day9_Q901" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +270,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757686064039</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="git push origin main">
+      <option name="closed" value="true" />
+      <created>1757694994469</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1757694994469</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
