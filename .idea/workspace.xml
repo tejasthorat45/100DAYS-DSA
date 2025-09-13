@@ -49,26 +49,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.DAY11_Q135.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DAY7_Q287.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DAY8_Q1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DAY9_Q128.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Day10_Q152.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Day10_Q560.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Day11_Q134.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Day7_Q11.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Day8_Q15.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Day9_Q901.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Trappedrainwater.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/PORTFOLIO&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/100DAYSDSA/100DSA/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DAY11_Q135.executor": "Run",
+    "Application.DAY12_224.executor": "Run",
+    "Application.DAY7_Q287.executor": "Run",
+    "Application.DAY8_Q1.executor": "Run",
+    "Application.DAY9_Q128.executor": "Run",
+    "Application.Day10_Q152.executor": "Run",
+    "Application.Day10_Q560.executor": "Run",
+    "Application.Day11_Q134.executor": "Run",
+    "Application.Day7_Q11.executor": "Run",
+    "Application.Day8_Q15.executor": "Run",
+    "Application.Day9_Q901.executor": "Run",
+    "Application.Trappedrainwater.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/PORTFOLIO",
+    "onboarding.tips.debug.path": "C:/100DAYSDSA/100DSA/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\100DAYSDSA\100DSA\src" />
@@ -287,7 +288,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757740286648</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="git push origin main">
+      <option name="closed" value="true" />
+      <created>1757782030357</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1757782030357</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
