@@ -1,7 +1,7 @@
 package LeetCode100Days;
 //day3
 
-public class DAY11_Q42 {
+public class DAY12_Q42 {
 
     public static int bruteForce(int arr[]){
 
