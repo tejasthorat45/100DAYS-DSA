@@ -1,6 +1,6 @@
 package LeetCode100Days;
 
-public class DAY14_Q5{
+public class DAY13_Q5{
 
     public String longestPalindrome(String s) {
         if (s == null || s.length() < 2) return s;
@@ -29,7 +29,7 @@ public class DAY14_Q5{
     }
 
     public static void main(String[] args) {
-        DAY14_Q5 solver = new DAY14_Q5();
+        DAY13_Q5 solver = new DAY13_Q5();
         System.out.println(solver.longestPalindrome("babad")); // "bab" or "aba"
         System.out.println(solver.longestPalindrome("cbbd"));  // "bb"
     }
