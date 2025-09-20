@@ -1,4 +1,4 @@
-import java.util.Stack;
+package LeetCode100Days;
 
 public class DAY16_Q125 {
     public static boolean brute(String s){
