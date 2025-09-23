@@ -35,6 +35,36 @@ public class DAY20_1422 {
         return res;
     }
 
+    public static int Ans(String s){
+        //cal total one
+        int total_one=0;
+        for(char c : s.toCharArray()){
+            if(c=='1'){
+                total_one++;
+            }
+        }
+
+        //
+
+        int zero =0,left_one=0;
+        int right_one=0;
+        int res=0;
+        for(int i=0;i<s.length();i++){
+            char c = s.charAt(i);
+
+            if(c=='0'){
+                zero++;
+            }else{
+                left_one++;
+            }
+
+            right_one = total_one-left_one;
+            res = Math.max(res,right_one+zero);
+        }
+
+        return res;
+    }
+
     public static int OptimalAproch(String s){
 
         int maxDiff =Integer.MIN_VALUE;
@@ -62,5 +92,6 @@ public class DAY20_1422 {
         String s = "1000111";
         System.out.println(Approch1(s));
         System.out.println(OptimalAproch(s));
+        System.out.println(Ans(s));
     }
 }
