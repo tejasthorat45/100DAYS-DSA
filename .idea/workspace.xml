@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="933b3a4e-5909-47eb-b158-a8fede7dcba7" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode100Days/DAY21_Q71.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode100Days/DAY22_q1496.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +67,7 @@
     "Application.DAY20_1422.executor": "Run",
     "Application.DAY20_Q2390.executor": "Run",
     "Application.DAY21_Q71.executor": "Run",
+    "Application.DAY22_q1496.executor": "Run",
     "Application.DAY7_Q287.executor": "Run",
     "Application.DAY8_Q1.executor": "Run",
     "Application.DAY9_Q128.executor": "Run",
@@ -92,7 +92,7 @@
       <recent name="C:\100DAYSDSA\100DSA\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DAY21_Q71">
+  <component name="RunManager" selected="Application.DAY22_q1496">
     <configuration name="DAY19_Q1436" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode100Days.DAY19_Q1436" />
       <module name="100DSA" />
@@ -145,8 +145,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DAY_18Q394" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode100Days.DAY_18Q394" />
+    <configuration name="DAY22_q1496" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode100Days.DAY22_q1496" />
       <module name="100DSA" />
       <extension name="coverage">
         <pattern>
@@ -160,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DAY22_q1496" />
         <item itemvalue="Application.DAY21_Q71" />
         <item itemvalue="Application.DAY20_1422" />
         <item itemvalue="Application.DAY20_Q2390" />
         <item itemvalue="Application.DAY19_Q1436" />
-        <item itemvalue="Application.DAY_18Q394" />
       </list>
     </recent_temporary>
   </component>
@@ -417,7 +417,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758599138635</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1758637216224</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1758637216224</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
