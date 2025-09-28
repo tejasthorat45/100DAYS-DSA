@@ -48,7 +48,7 @@ public class DAY25_Q438 {
         String p ="abc";
         List<Integer> arr = findAllAnagram(s,p);
         for (Integer a : arr){
-            System.out.print(a);
+            System.out.print(a+" ");
 
         }
 
