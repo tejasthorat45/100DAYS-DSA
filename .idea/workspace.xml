@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="933b3a4e-5909-47eb-b158-a8fede7dcba7" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode100Days/DAY27_q2221.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode100Days/DAY28_Q231.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode100Days/DAY28_Q930.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode100Days/DAY29_Q268.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode100Days/DAY30_3005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode100Days/DAY30_Q1358.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode100Days/DAY31_q3100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode100Days/Day29_Q1248.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode100Days/Day30_Q2864.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,6 +85,11 @@
     "Application.DAY27_Q2966.executor": "Run",
     "Application.DAY27_q2221.executor": "Run",
     "Application.DAY28_Q231.executor": "Run",
+    "Application.DAY28_Q930.executor": "Run",
+    "Application.DAY29_Q268.executor": "Run",
+    "Application.DAY30_3005.executor": "Run",
+    "Application.DAY30_Q1358.executor": "Run",
+    "Application.DAY31_q3100.executor": "Run",
     "Application.DAY7_Q287.executor": "Run",
     "Application.DAY8_Q1.executor": "Run",
     "Application.DAY9_Q128.executor": "Run",
@@ -88,6 +98,8 @@
     "Application.Day10_Q560.executor": "Run",
     "Application.Day11_Q134.executor": "Run",
     "Application.Day26_Q455.executor": "Run",
+    "Application.Day29_Q1248.executor": "Run",
+    "Application.Day30_Q2864.executor": "Run",
     "Application.Day7_Q11.executor": "Run",
     "Application.Day8_Q15.executor": "Run",
     "Application.Day9_Q901.executor": "Run",
@@ -96,7 +108,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/PORTFOLIO",
+    "last_opened_file_path": "C:/Users/Tejas Thorat/Downloads/springai-demo",
     "onboarding.tips.debug.path": "C:/100DAYSDSA/100DSA/src/Main.java"
   }
 }]]></component>
@@ -105,9 +117,9 @@
       <recent name="C:\100DAYSDSA\100DSA\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DAY28_Q231">
-    <configuration name="DAY25_GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode100Days.DAY25_GFG" />
+  <component name="RunManager" selected="Application.DAY30_3005">
+    <configuration name="DAY30_3005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode100Days.DAY30_3005" />
       <module name="100DSA" />
       <extension name="coverage">
         <pattern>
@@ -119,8 +131,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DAY27_Q2966" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode100Days.DAY27_Q2966" />
+    <configuration name="DAY30_Q1358" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode100Days.DAY30_Q1358" />
       <module name="100DSA" />
       <extension name="coverage">
         <pattern>
@@ -132,8 +144,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DAY27_q2221" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode100Days.DAY27_q2221" />
+    <configuration name="DAY31_q3100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode100Days.DAY31_q3100" />
       <module name="100DSA" />
       <extension name="coverage">
         <pattern>
@@ -145,8 +157,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DAY28_Q231" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode100Days.DAY28_Q231" />
+    <configuration name="Day29_Q1248" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode100Days.Day29_Q1248" />
       <module name="100DSA" />
       <extension name="coverage">
         <pattern>
@@ -158,8 +170,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day26_Q455" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode100Days.Day26_Q455" />
+    <configuration name="Day30_Q2864" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode100Days.Day30_Q2864" />
       <module name="100DSA" />
       <extension name="coverage">
         <pattern>
@@ -173,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DAY28_Q231" />
-        <item itemvalue="Application.DAY27_q2221" />
-        <item itemvalue="Application.DAY27_Q2966" />
-        <item itemvalue="Application.DAY25_GFG" />
-        <item itemvalue="Application.Day26_Q455" />
+        <item itemvalue="Application.DAY30_3005" />
+        <item itemvalue="Application.DAY31_q3100" />
+        <item itemvalue="Application.DAY30_Q1358" />
+        <item itemvalue="Application.Day30_Q2864" />
+        <item itemvalue="Application.Day29_Q1248" />
       </list>
     </recent_temporary>
   </component>
@@ -494,7 +506,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759160766985</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1759243508838</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1759243508838</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
