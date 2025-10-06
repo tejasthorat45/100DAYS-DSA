@@ -1,6 +1,6 @@
 package LeetCode100Days;
 
-public class Day30_Q2864 {
+public class Day31_Q2864 {
 
     public static String oddBinaryNumber(String s){
 
