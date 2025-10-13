@@ -3,7 +3,6 @@ package LeetCode100Days;
 import java.util.Collection;
 import java.util.Collections;
 import java.util.PriorityQueue;
-
 public class DAY38_Q1962 {
 
     public static int removeStone(int piles[],int k){
@@ -41,6 +40,7 @@ public class DAY38_Q1962 {
 
 
     }
+
 
     public static void main(String[] args) {
 
