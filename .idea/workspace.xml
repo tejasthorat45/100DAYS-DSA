@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="933b3a4e-5909-47eb-b158-a8fede7dcba7" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode100Days/DAY44_Q621.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode100Days/DAY45_Q3170.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode100Days/DAY46_3066.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode100Days/DAY47_Q3418.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode100Days/DAY50_Q22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode100Days/DAY51_Q78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode100Days/DAY52_Q779.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode100Days/DAY53_Q1823.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode100Days/DAY55_qRECURSION.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,6 +108,10 @@
     "Application.DAY45_3066.executor": "Run",
     "Application.DAY45_Q3170.executor": "Run",
     "Application.DAY47_Q3418.executor": "Run",
+    "Application.DAY50_Q22.executor": "Run",
+    "Application.DAY51_Q78.executor": "Run",
+    "Application.DAY52_Q779.executor": "Run",
+    "Application.DAY55_qRECURSION.executor": "Run",
     "Application.DAY7_Q287.executor": "Run",
     "Application.DAY8_Q1.executor": "Run",
     "Application.DAY9_Q128.executor": "Run",
@@ -125,7 +130,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Tejas Thorat/Downloads/springai-demo",
+    "last_opened_file_path": "C:/100DAYSDSA/100DSA",
     "onboarding.tips.debug.path": "C:/100DAYSDSA/100DSA/src/Main.java",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
@@ -135,59 +140,7 @@
       <recent name="C:\100DAYSDSA\100DSA\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DAY47_Q3418">
-    <configuration name="DAY42_Q373" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode100Days.DAY42_Q373" />
-      <module name="100DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode100Days.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DAY44_Q621" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode100Days.DAY44_Q621" />
-      <module name="100DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode100Days.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DAY45_Q3170" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode100Days.DAY45_Q3170" />
-      <module name="100DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode100Days.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DAY46_3066" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode100Days.DAY46_3066" />
-      <module name="100DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode100Days.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.DAY55_qRECURSION">
     <configuration name="DAY47_Q3418" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode100Days.DAY47_Q3418" />
       <module name="100DSA" />
@@ -201,13 +154,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DAY50_Q22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode100Days.DAY50_Q22" />
+      <module name="100DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode100Days.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DAY51_Q78" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode100Days.DAY51_Q78" />
+      <module name="100DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode100Days.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DAY52_Q779" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode100Days.DAY52_Q779" />
+      <module name="100DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode100Days.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DAY55_qRECURSION" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode100Days.DAY55_qRECURSION" />
+      <module name="100DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode100Days.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DAY55_qRECURSION" />
+        <item itemvalue="Application.DAY52_Q779" />
+        <item itemvalue="Application.DAY51_Q78" />
+        <item itemvalue="Application.DAY50_Q22" />
         <item itemvalue="Application.DAY47_Q3418" />
-        <item itemvalue="Application.DAY46_3066" />
-        <item itemvalue="Application.DAY45_Q3170" />
-        <item itemvalue="Application.DAY44_Q621" />
-        <item itemvalue="Application.DAY42_Q373" />
       </list>
     </recent_temporary>
   </component>
