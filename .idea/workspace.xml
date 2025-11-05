@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="933b3a4e-5909-47eb-b158-a8fede7dcba7" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode100Days/DAY50_Q22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode100Days/DAY51_Q78.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode100Days/DAY52_Q779.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode100Days/DAY53_Q1823.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode100Days/DAY55_qRECURSION.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode100Days/DAY56_FirstOcuurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode100Days/DAY57_PowerXn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode100Days/DAY58_RemoveDuplicate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,114 +50,105 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.DAY11_Q135.executor": "Run",
-    "Application.DAY12_224.executor": "Run",
-    "Application.DAY13_242.executor": "Run",
-    "Application.DAY14_Q151.executor": "Run",
-    "Application.DAY14_Q387.executor": "Run",
-    "Application.DAY14_Q5.executor": "Run",
-    "Application.DAY14_q1047.executor": "Run",
-    "Application.DAY15_Q3.executor": "Run",
-    "Application.DAY15_Q389.executor": "Run",
-    "Application.DAY16_Q125.executor": "Run",
-    "Application.DAY16_Q680.executor": "Run",
-    "Application.DAY17_Q1688.executor": "Run",
-    "Application.DAY17_Q856.executor": "Run",
-    "Application.DAY19_Q1436.executor": "Run",
-    "Application.DAY19_Q1464.executor": "Run",
-    "Application.DAY20_1422.executor": "Run",
-    "Application.DAY20_Q2390.executor": "Run",
-    "Application.DAY21_Q71.executor": "Run",
-    "Application.DAY22_q1496.executor": "Run",
-    "Application.DAY23_Q1624.executor": "Run",
-    "Application.DAY23_Q509.executor": "Run",
-    "Application.DAY24_1758.executor": "Run",
-    "Application.DAY24_Q209.executor": "Run",
-    "Application.DAY25_GFG.executor": "Run",
-    "Application.DAY25_Q424.executor": "Run",
-    "Application.DAY25_Q438.executor": "Run",
-    "Application.DAY27_Q2966.executor": "Run",
-    "Application.DAY27_q2221.executor": "Run",
-    "Application.DAY28_Q231.executor": "Run",
-    "Application.DAY28_Q930.executor": "Run",
-    "Application.DAY29_Q268.executor": "Run",
-    "Application.DAY30_3005.executor": "Run",
-    "Application.DAY30_Q1358.executor": "Run",
-    "Application.DAY31_Q2444.executor": "Run",
-    "Application.DAY31_q3100.executor": "Run",
-    "Application.DAY32_Q1423.executor": "Run",
-    "Application.DAY32_Q2540.executor": "Run",
-    "Application.DAY33_Q219.executor": "Run",
-    "Application.DAY33_Q349.executor": "Run",
-    "Application.DAY35_Q239.executor": "Run",
-    "Application.DAY35_Q713.executor": "Run",
-    "Application.DAY36_Q2958.executor": "Run",
-    "Application.DAY37_Q205.executor": "Run",
-    "Application.DAY37_Q451.executor": "Run",
-    "Application.DAY38_Q1962.executor": "Run",
-    "Application.DAY38_q1046.executor": "Run",
-    "Application.DAY39_Q703.executor": "Run",
-    "Application.DAY40_Q347.executor": "Run",
-    "Application.DAY41_Q2462.executor": "Run",
-    "Application.DAY42_Q373.executor": "Run",
-    "Application.DAY44_Q621.executor": "Run",
-    "Application.DAY45_3066.executor": "Run",
-    "Application.DAY45_Q3170.executor": "Run",
-    "Application.DAY47_Q3418.executor": "Run",
-    "Application.DAY50_Q22.executor": "Run",
-    "Application.DAY51_Q78.executor": "Run",
-    "Application.DAY52_Q779.executor": "Run",
-    "Application.DAY55_qRECURSION.executor": "Run",
-    "Application.DAY7_Q287.executor": "Run",
-    "Application.DAY8_Q1.executor": "Run",
-    "Application.DAY9_Q128.executor": "Run",
-    "Application.DAY_18Q394.executor": "Run",
-    "Application.Day10_Q152.executor": "Run",
-    "Application.Day10_Q560.executor": "Run",
-    "Application.Day11_Q134.executor": "Run",
-    "Application.Day26_Q455.executor": "Run",
-    "Application.Day29_Q1248.executor": "Run",
-    "Application.Day30_Q2864.executor": "Run",
-    "Application.Day7_Q11.executor": "Run",
-    "Application.Day8_Q15.executor": "Run",
-    "Application.Day9_Q901.executor": "Run",
-    "Application.Trappedrainwater.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/100DAYSDSA/100DSA",
-    "onboarding.tips.debug.path": "C:/100DAYSDSA/100DSA/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DAY11_Q135.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY12_224.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY13_242.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY14_Q151.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY14_Q387.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY14_Q5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY14_q1047.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY15_Q3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY15_Q389.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY16_Q125.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY16_Q680.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY17_Q1688.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY17_Q856.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY19_Q1436.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY19_Q1464.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY20_1422.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY20_Q2390.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY21_Q71.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY22_q1496.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY23_Q1624.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY23_Q509.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY24_1758.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY24_Q209.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY25_GFG.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY25_Q424.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY25_Q438.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY27_Q2966.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY27_q2221.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY28_Q231.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY28_Q930.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY29_Q268.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY30_3005.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY30_Q1358.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY31_Q2444.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY31_q3100.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY32_Q1423.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY32_Q2540.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY33_Q219.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY33_Q349.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY35_Q239.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY35_Q713.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY36_Q2958.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY37_Q205.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY37_Q451.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY38_Q1962.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY38_q1046.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY39_Q703.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY40_Q347.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY41_Q2462.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY42_Q373.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY44_Q621.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY45_3066.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY45_Q3170.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY47_Q3418.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY50_Q22.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY51_Q78.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY52_Q779.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY55_qRECURSION.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY56_FirstOcuurance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY7_Q287.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY8_Q1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY9_Q128.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DAY_18Q394.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Day10_Q152.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Day10_Q560.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Day11_Q134.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Day26_Q455.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Day29_Q1248.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Day30_Q2864.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Day7_Q11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Day8_Q15.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Day9_Q901.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Trappedrainwater.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/100DAYSDSA/100DSA&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/100DAYSDSA/100DSA/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\100DAYSDSA\100DSA\src" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="LeetCode100Days" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.DAY55_qRECURSION">
-    <configuration name="DAY47_Q3418" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode100Days.DAY47_Q3418" />
-      <module name="100DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode100Days.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.DAY56_FirstOcuurance">
     <configuration name="DAY50_Q22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode100Days.DAY50_Q22" />
       <module name="100DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode100Days.*" />
+          <option name="PATTERN" value="Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,7 +161,7 @@
       <module name="100DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode100Days.*" />
+          <option name="PATTERN" value="Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,7 +174,7 @@
       <module name="100DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode100Days.*" />
+          <option name="PATTERN" value="Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,11 +183,24 @@
       </method>
     </configuration>
     <configuration name="DAY55_qRECURSION" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode100Days.DAY55_qRECURSION" />
+      <option name="MAIN_CLASS_NAME" value="Recursion.DAY55_qRECURSION" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DAY56_FirstOcuurance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode100Days.DAY56_FirstOcuurance" />
       <module name="100DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode100Days.*" />
+          <option name="PATTERN" value="Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DAY56_FirstOcuurance" />
         <item itemvalue="Application.DAY55_qRECURSION" />
         <item itemvalue="Application.DAY52_Q779" />
         <item itemvalue="Application.DAY51_Q78" />
         <item itemvalue="Application.DAY50_Q22" />
-        <item itemvalue="Application.DAY47_Q3418" />
       </list>
     </recent_temporary>
   </component>
@@ -609,7 +611,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760887520068</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1762099379502</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1762099379502</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
